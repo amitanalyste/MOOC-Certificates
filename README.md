@@ -1,5 +1,8 @@
 # MOOC-Certificates
 
+July 2017: Python Data Structures
+https://www.coursera.org/account/accomplishments/verify/R9AUYZ96SWQX
+
 Mar 2017: 6.00.1x: Introduction to Computer Science and Programming Using Python
 https://courses.edx.org/certificates/0bf619e16d2b43ddbd9a4c1e802d73d2
 
